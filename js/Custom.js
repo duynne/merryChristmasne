@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Chúc em có một mùa giáng sinh an lành nhá, mùa giáng sinh năm sau anh sẽ bù đắp lại cho em nha, vì lần này gấp quá anh không kịp chuẩn bị, hì xin lỗi bé. Hmmm anh cũng không biết chúc thêm gì nữa nma cứ vui vẻ hạnh phúc nha, còn những vấn đề khác để anh giải quyết cho, yêu em <3",
+                        "Chúc em có một mùa giáng sinh an lành nhá, mùa giáng sinh năm sau anh sẽ bù đắp lại cho em nha, lần này gấp quá anh không kịp chuẩn bị, hì xin lỗi bé. Hmmm anh cũng không biết chúc thêm gì nữa nma cứ vui vẻ hạnh phúc nha, còn những vấn đề khác để anh giải quyết cho, yêu em <3",
                         ],
                         typeSpeed: 250,
                         startDelay: 500,
